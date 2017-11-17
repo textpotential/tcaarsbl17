@@ -45,5 +45,5 @@ title: Getting Started with Markdown and Git
 
             pandoc -o [output_docx] -f markdown -t docx [input_md] --smart
             
-8. How do use VIM
+8. How to use VIM
     - [Here is the Linux Tutoril](https://www.linux.com/learn/vim-101-beginners-guide-vim)
