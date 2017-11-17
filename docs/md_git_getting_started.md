@@ -22,10 +22,10 @@ title: Getting Started with Markdown and Git
     - Learn the git workflow in Atom (team decide on branching or not, etc.)
     - commit and push changes to shared repository
 
-7. Use pandoc to convert markdown to word
+7. Use [pandoc](https://pandoc.org/) to convert markdown to word
 
     - Mac OS: install [Homebrew](https://brew.sh/) package manager
     - [Install pandoc](https://pandoc.org/installing.html) (Use homebrew for Mac OS)
     - use command something like
 
-        pandoc -o [output_docx] -f markdown -t docx [input_md] --smart
+    ```pandoc -o [output_docx] -f markdown -t docx [input_md] --smart```
