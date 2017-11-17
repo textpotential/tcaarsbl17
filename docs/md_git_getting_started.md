@@ -14,7 +14,16 @@ title: Getting Started with Markdown and Git
     - Markdown can be used in the .md file we are working on together and in the commit message.
     - There are many git workflows that teams can use, here is a [simple introduction](http://rogerdudler.github.io/git-guide/) that gives the basics of the git process.
 4. [Add a new file](https://help.github.com/articles/adding-a-file-to-a-repository/) to the repository.
+
+    - browse to docs directory of repository
+    - create file with .md extension
+    - add necessary front matter (see example in another file, e.g. layout and title)
+    
 5. [Add an issue](https://help.github.com/articles/creating-an-issue/) that the team needs to discuss about the project.
+
+    - notice all of the options you have with assigning issues or categorizing, etc.
+    - you can use markdown in your issue too :)
+
 6. Choose an editor (e.g. [Atom](https://atom.io/))
 
     - Install Atom
