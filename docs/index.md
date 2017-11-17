@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 This is just the beginning. Perhaps we should put more here?

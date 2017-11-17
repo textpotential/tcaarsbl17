@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Getting Started with Markdown and Git
 ---
 
 ## Getting Started with Markdown and Git ##
