@@ -13,8 +13,8 @@ title: Getting Started with Markdown and Git
     - For a fuller explication of the GFM standard, see [GitHub Flavored Markdown Spec](https://github.github.com/gfm/).
     - Markdown can be used in the .md file we are working on together and in the commit message.
     - There are many git workflows that teams can use, here is a [simple introduction](http://rogerdudler.github.io/git-guide/) that gives the basics of the git process.
-4. Add a new file
-5. Add an issue
+4. [Add a new file](https://help.github.com/articles/adding-a-file-to-a-repository/) to the repository.
+5. [Add an issue](https://help.github.com/articles/creating-an-issue/) that the team needs to discuss about the project.
 6. Choose an editor (e.g. [Atom](https://atom.io/))
 
     - Install Atom
