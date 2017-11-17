@@ -27,4 +27,5 @@ title: Getting Started with Markdown and Git
     - Mac OS: install [Homebrew](https://brew.sh/) package manager
     - [Install pandoc](https://pandoc.org/installing.html) (Use homebrew for Mac OS)
     - use command something like
+
         pandoc -o [output_docx] -f markdown -t docx [input_md] --smart
