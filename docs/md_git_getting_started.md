@@ -47,3 +47,5 @@ title: Getting Started with Markdown and Git
             
 8. How to use VIM
     - [Here is the Linux Tutorial](https://www.linux.com/learn/vim-101-beginners-guide-vim)
+
+9. A helpful walk-through on writing with Markdown and Pandoc: [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
