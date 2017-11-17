@@ -1,2 +1,5 @@
+—-
+layout: default
+—-
 
-This should be the homepage of the site now. 
+This would be *another page* that would have some other info.
