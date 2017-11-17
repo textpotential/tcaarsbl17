@@ -5,6 +5,12 @@ title: Getting Started with Markdown and Git
 
 ## Getting Started with Markdown and Git ##
 
+0. Preliminary Setup
+
+    - Created a repository on Github
+    - Added a docs directory with an index.md file
+    - Turned on GitHub Pages and configured theme in settings
+
 1. Create a [GitHub](https://github.com) account
 2. Accept invite as contributor to repository
 3. [Edit a file](https://help.github.com/articles/editing-files-in-your-repository/) and commit changes
@@ -18,7 +24,7 @@ title: Getting Started with Markdown and Git
     - browse to docs directory of repository
     - create file with .md extension
     - add necessary front matter (see example in another file, e.g. layout and title)
-    
+
 5. [Add an issue](https://help.github.com/articles/creating-an-issue/) that the team needs to discuss about the project.
 
     - notice all of the options you have with assigning issues or categorizing, etc.
